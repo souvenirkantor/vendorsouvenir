@@ -324,4 +324,28 @@
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
+    <url>
+        <loc>https://vendorsouvenir.web.id/tas-seminar-kit-custom</loc>
+        <lastmod>2026-08-05</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://vendorsouvenir.web.id/bahan-tas-seminar-kit-branding</loc>
+        <lastmod>2026-08-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://vendorsouvenir.web.id/desain-tas-seminar-kit</loc>
+        <lastmod>2026-08-07</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://vendorsouvenir.web.id/manfaat-tas-seminar-kit-branding</loc>
+        <lastmod>2026-08-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
 </urlset>
