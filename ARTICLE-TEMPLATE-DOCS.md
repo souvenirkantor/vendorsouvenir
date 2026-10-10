@@ -162,7 +162,7 @@ Copy CSS dari `article-template.css` dan paste di dalam tag `<style>` di artikel
 
                 <!-- Promo Banner -->
                 <div class="promo-banner">
-                    <a href="https://wa.me/62895639068080" target="_blank">
+                    <a href="https://wa.me/6281252225479" target="_blank">
                         <img src="assets/promo-banner.webp" alt="Promo Banner">
                     </a>
                 </div>
